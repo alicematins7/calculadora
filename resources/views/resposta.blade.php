@@ -1,5 +1,4 @@
 @extends('layout')
-
 @section('content')
 <div class="texto">
     <h2>Cálculo efetuado</h2>
